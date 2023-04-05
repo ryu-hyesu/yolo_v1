@@ -1,1 +1,3 @@
-# yolo_v1
+# YOLOv1
+
+YOLOV1 with ResNet18
